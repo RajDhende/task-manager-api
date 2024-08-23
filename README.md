@@ -7,12 +7,6 @@ A simple RESTful API for managing tasks, built with Node.js, Express, and MongoD
 This API allows users to perform CRUD (Create, Read, Update, Delete) operations on tasks. Each task has a title, description, and completion status. The API is designed to be used as a backend for a task management application.
 
 
-## Prerequisites
-
-- [Node.js](https://nodejs.org/) (v14.x or later)
-- [npm](https://www.npmjs.com/) (v6.x or later)
-- [MongoDB](https://www.mongodb.com/) (local or cloud instance)
-
 ## Installation
 
 1. Clone the repository:
